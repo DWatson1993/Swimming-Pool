@@ -1,0 +1,14 @@
+C:\Users\watso\source\repos\Swimming Pool\Swimming Pool\bin\Debug\netcoreapp3.1\Swimming Pool.exe
+C:\Users\watso\source\repos\Swimming Pool\Swimming Pool\bin\Debug\netcoreapp3.1\input.txt
+C:\Users\watso\source\repos\Swimming Pool\Swimming Pool\bin\Debug\netcoreapp3.1\Swimming Pool.deps.json
+C:\Users\watso\source\repos\Swimming Pool\Swimming Pool\bin\Debug\netcoreapp3.1\Swimming Pool.runtimeconfig.json
+C:\Users\watso\source\repos\Swimming Pool\Swimming Pool\bin\Debug\netcoreapp3.1\Swimming Pool.runtimeconfig.dev.json
+C:\Users\watso\source\repos\Swimming Pool\Swimming Pool\bin\Debug\netcoreapp3.1\Swimming Pool.dll
+C:\Users\watso\source\repos\Swimming Pool\Swimming Pool\bin\Debug\netcoreapp3.1\Swimming Pool.pdb
+C:\Users\watso\source\repos\Swimming Pool\Swimming Pool\obj\Debug\netcoreapp3.1\Swimming Pool.csprojAssemblyReference.cache
+C:\Users\watso\source\repos\Swimming Pool\Swimming Pool\obj\Debug\netcoreapp3.1\Swimming Pool.AssemblyInfoInputs.cache
+C:\Users\watso\source\repos\Swimming Pool\Swimming Pool\obj\Debug\netcoreapp3.1\Swimming Pool.AssemblyInfo.cs
+C:\Users\watso\source\repos\Swimming Pool\Swimming Pool\obj\Debug\netcoreapp3.1\Swimming Pool.csproj.CoreCompileInputs.cache
+C:\Users\watso\source\repos\Swimming Pool\Swimming Pool\obj\Debug\netcoreapp3.1\Swimming Pool.dll
+C:\Users\watso\source\repos\Swimming Pool\Swimming Pool\obj\Debug\netcoreapp3.1\Swimming Pool.pdb
+C:\Users\watso\source\repos\Swimming Pool\Swimming Pool\obj\Debug\netcoreapp3.1\Swimming Pool.genruntimeconfig.cache
